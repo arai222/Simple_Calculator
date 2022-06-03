@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My CalculatorApp</string>
+    <string name="content_calculator">calculator</string>
+
+    <string name="oneBtn">1</string>
+    <string name="twoBtn">2</string>
+    <string name="threeBtn">3</string>
+    <string name="fourBtn">1</string>
+    <string name="fiveBtn">5</string>
+    <string name="sixBtn">6</string>
+    <string name="sevenBtn">7</string>
+    <string name="eightBtn">8</string>
+    <string name="nineBtn">9</string>
+    <string name="zeroBtn">0</string>
+    <string name="pointBtn">.</string>
+
+
+    <string name="addBtn">+</string>
+    <string name="subBtn">-</string>
+    <string name="multiBtn">*</string>
+    <string name="divideBtn">/</string>
+    <string name="equalBtn">=</string>
+
+    <string name="clearBtn">C</string>
+
+
+
+</resources>
